@@ -2,9 +2,18 @@
 <html>
   <head>
     <link rel="stylesheet" type="text/css" href="/css/main.css">
-    <link rel="alternate" type="application/atom+xml" title="<%= title %> - feed" href="/index.xml" />
+    <link rel="alternate" type="application/rss+xml" title="blog.dlederle feed"
+      href="http://feeds.feedburner.com/dlederle.blog.all" />
     <meta http-equiv="Content-Type" content="text/html; charset=UTF-8"/> 
-    <title><%= title %></title>
+    <meta name="description"
+      content="<%= @context[:description] || 'Default description' %>" />
+    <title>
+    <% if @path == 'index' %>
+      Blog | dlederle.com
+    <% elsif @path.split('/').compact.length == 4 %>
+      <%= title %>  | blog.dlederle.com
+    <% end %>
+    </title>
   </head>
   <body>
     <section>
