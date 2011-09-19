@@ -1,0 +1,9 @@
+--- 
+title: Learn to Code
+date: 19/09/2011
+
+  Shanagram [writes][] that we do not need to understand code to understand machines. Many of her points are valid, particularly about using some discretion online.
+[writes]:  http://shanagram.wordpress.com/2011/09/13/do-we-need-to-understand-code-to-understand-machines-my-rebuttal/
+I agree that you don't need to have in depth technical knowledge to survive in the digital age, but in my opinion that is not the main reason to learn programming.
+
+Test
