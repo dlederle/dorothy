@@ -1,6 +1,5 @@
-<rss>
-<link rel="alternate" type="application/atom+xml" title="engl457-feed" href="/engl457.xml" />
-</rss>
+<link rel="alternative" type="application/atom+xml" title="<%= title %> - feed" href="/engl457.xml" />
+
 <% @articles.select {|a| a[:category] == 'engl457' }[0...10].each do |article| %>
   <a href="<%= article.path %>"><%= article.title %></a>
 <% end %>

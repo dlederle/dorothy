@@ -1,11 +1,11 @@
 xml.instruct!
 xml.feed "xmlns" => "http://www.w3.org/2005/Atom" do
-  xml.title 'engl457-feed'
+  xml.title "Dlederle, 457s"
   xml.id 'blog.dlederle.com/engl457'
   xml.updated articles.first[:date].iso8601 unless articles.empty?
   xml.author { xml.name @config[:author] }
 
-  articles.select { |a| a[:category] == 'engl457'}.reverse[0...10].each do |article|
+  articles.select { |a| a[:category]== 'engl457'}.reverse[0...10].each do |article|
     xml.entry do
       xml.title article.title
       xml.link "rel" => "alternate", "href" => article.url
