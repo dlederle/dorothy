@@ -1,0 +1,18 @@
+﻿--- 
+title: The Making of this blog
+date: 22/09/2011
+category: meta
+
+	Getting this blog online has been a bit of a headache. For all [these reasons], I was convinced to start blogging. After reading various discussions surrounding Google+, I was also convinced to put it up on my own domain. I also figured it was high time I had experience running a website. Turns out I did actually learn a lot from the experience.
+	I went out and registered “dlederle.com” after [Coffee and Domains] turned up in a “Show HN”. I had been mulling over this stuff for a couple days when they posted it, but it was still sort of an impulse buy. It was indeed very easy to register and I was feeling pretty good about myself. I was [master of my own domain.]
+[Coffee and Domains]: https://www.coffeeanddomains.com/
+[master of my own domain.]: http://www.youtube.com/watch?v=oi68hPMinAI&feature=related
+	Then I spend several very frustrating time learning the basics of DNS records through trial and error. I now realize I was not Coffee and Domains “target audience”. Their stripped down, clean interface is actually pretty awesome now that I know what an A record is. But figuring it out sucked a lot. Eventually I managed to get it pointing to [heroku].
+[heroku]: http://www.heroku.com
+	I had completed the [Play!] Yabe tutorial and thought to myself “well, that can totally power my little blog!”. At this point I was also debating whether to go Java or Ruby for the backend of the site. I realize this is overkill for the simplicity of an essentially static site, but part of the goal of this blog is to be a little playground to try out tricks and snippets of code I find. I like a lot about Ruby, including its syntax and especially the ease of heroku. Then I found out that my main programming class in the fall would be in Java and heroku added Play! Support. [Decision made.]
+[Play!]: http://www.playframework.org/
+[Decision made.]: http://www.youtube.com/watch?v=slOWroJlmbs
+	A week of infrequent tinkering yielded nothing but a place holder home page. No disqus comments, no rss, no beautiful layout. Having blown two blog deadlines for my senior seminar, I broke down and did a 10 second [toto install] like I should have in the first place.
+[toto install]: http://fadeyev.net/2010/05/10/getting-started-with-toto/
+	I'm migrating a couple posts from my old game design blog that I did last semester. I will keep their original dates. Right now, I'm running blog.dlederle.com as a toto app on heroku, and dlederle.com as a Play! app, also on heroku. I bet this violates some sort of design principle, but until I learn why I'm going to stay happy in my java/ruby hybrid world.
+
