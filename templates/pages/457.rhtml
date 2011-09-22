@@ -1,1 +1,7 @@
-
+<rss>
+  <link rel="alternate" type="application/rss+xml" title="blog.dlederle/457 feed"
+    href="http://feeds.feedburner.com/dlederle/blog/457" />
+</rss>
+<% @articles.select {|a| a[:category] == 'engl457' }[0...10].each do |article| %>
+  <a href="<%= article.path %>"><%= article.title %></a>
+<% end %>
