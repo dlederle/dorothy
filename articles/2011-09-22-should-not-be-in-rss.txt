@@ -1,6 +1,0 @@
---- 
-title: Should not be in rss
-date: 22/09/2011
-
-This should not be in the feed.
-
