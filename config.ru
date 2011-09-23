@@ -21,7 +21,9 @@ toto = Toto::Server.new do
     set :title,      "Codes, Culture, etc"                    # site title
   # set :root,      "index"                                   # page to load on /
   #  set :date,      lambda {|now| now.strftime("%m/%d/%Y") }  # date format for articles
-  # set :markdown,  :smart                                    # use markdown + smart-mode
+  # set :markdown,
+  # :smart              
+  # use markdown + smart-mode
   # set :disqus,    dlederlecom                                     # disqus id, or false
   # set :summary,   :max => 150, :delim => /~/                # length of article summary and delimiter
     set :ext,       'txt'                                     # file extension for articles
