@@ -1,0 +1,6 @@
+--- 
+title: Hacktivist Games
+date: 05/05/2011
+categories: gamedesign
+
+
