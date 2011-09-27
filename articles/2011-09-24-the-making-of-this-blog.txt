@@ -2,7 +2,7 @@
 title: The making of this blog
 date: 24/09/2011
 
-Getting this blog online has been a bit of a headache. For all [these reasons], I was convinced to start blogging. After reading various disccusions surrounding Google+, I was also convinced to put it up on my own domain. I also figured it was high time I had experience running a website. Turns out I did actually learn a lot.
+Getting this blog online has been a bit of a headache. For all [these reasons](http://blog.dlederle.com/2011/08/02/steve-yegge-convinced-me-to-blog/), I was convinced to start blogging. After reading various disccusions surrounding Google+, I was also convinced to put it up on my own domain. I also figured it was high time I had experience running a website. Turns out I did actually learn a lot.
 
   I went out and registered "dlederle.com" after [Coffee and Domains](http://www.coffeeanddomains.com) turned up in a "Show HN" post on [Hacker News](http://news.ycombinator.com). I had been mulling over this stuff for a couple days when they posted it and bought on impulse. It was indeed very easy to register and I was feeling pretty good about myself. I was now [master of my own domain.](http://www.youtube.com/watch?v=oi68hPMinAI&feature=related)
 
