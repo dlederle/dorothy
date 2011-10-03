@@ -1,0 +1,12 @@
+--- 
+title: Moral Computing
+date: 03/10/2011
+category: engl457
+
+I am taking "Object Oriented Analysis and Design" this semester, and last week we had our first writing assignment. It was a short opinion piece on ["Moral Responsibility for Computing Artifacts: The Rules"](https://edocs.uis.edu/kmill2/www/TheRules/). This is a manifesto written by some computer scientists adressing moral responsibility for people writing and using "computer artifacts", or code. It fits with some of the discussions we had earlier in the seminar about ethical uses of code, so I'm posting a modified version below.
+
+“The Rules”, was an interesting read, and it fit well into some of the discussions I have been reading and thinking about recently. Specifically, there has been a flurry of blog posts and concern about Facebook and privacy. Most notably Dave Winer's post [“Facebook is scaring me”](http://scripting.com/stories/2011/09/24/facebookIsScaringMe.html). Winer raises concerns about the reach of Facebook beyond their own borders and onto many other sites on the web. In particular he questions the upcoming “read” function, which will post to your feed when you read an article. Whether his specific concerns about the erosion of privacy are valid is not as important as the fact that they exist. Clearly, this is a case of a computing “artifact”  causing serious moral discussion.
+
+Reading these discussions in the shadow of the semester long assignment of remaking Facebook has prompted me to think about the specific morality of online social networks. I read about the very interesting [Diaspora*](https://joindiaspora.com/) project, which aims to build a decentralized peer to peer social network, addressing the concern of who owns your content online. I forked their source on github, and while I do not have anything worthwhile to contribute now, perhaps by the end of the semester I will.
+
+This critical work around the issue of social networks has definitely given me pause as I think about the design of our social network. The Rules declaration of shared moral responsibility dictates that a team must take the consequences of their project into consideration, and make sure everyone on the team understands them. I hope that my group will take these moral questions into account up front as much as we do the technical problems.         
