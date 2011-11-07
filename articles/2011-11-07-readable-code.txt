@@ -22,7 +22,7 @@ One amusing example of this in my own life comes from a friend of mine in my com
 For example, he names his characters 'char mander', 'char meleon', and 'char zard'.
 Only programs which require three character variables get to fully evolve.
 These conventions don't alter the runtime characteristics of his program, but they do endear him to his classmates (and exaperates some of his professors).
-When struggling through a late night debugging session, seeing 'bool [tentabool](http://bulbapedia.bulbagarden.net/wiki/Tentacruel_(Pok%C3%A9mon))' is much funnier than it probably should be, and eases some stress.
+When struggling through a late night debugging session, seeing 'bool [tentabool](http://bulbapedia.bulbagarden.net/wiki/Tentacruel)' is much funnier than it probably should be, and eases some stress.
 
 In their paper, *A Box Darkly: Obfuscation, Weird Languages, and Code Aesthetics*, Michael Mateas and Nick Montfort explore the idea that code exists on both of these planes, and that clear communication is not always the goal.
 They describe obfuscation contests, such as [the International Obfuscated C Code Contest](http://www0.us.ioccc.org/main.html) which aims among other things "To show the importance of programming style, in an ironic way."
