@@ -14,7 +14,7 @@ Carried out logically this leads towards some variation on [literate programming
 Of course, this is just one definition of 'good code'.
 Other views of computer programming might hold that any program which works for its end users is good.
 In software engineering, there are many practical concerns about readability of a computer program.
-It allows easier collaboration with others, it is more maintable, and it just looks better.
+It allows easier collaboration with others, it is more maintainable, and it just looks better.
 However, from a code studies perspective, clearly readable code draws attention to the unique property of computer code, that it exists on two communicative layers.
 On one it speaks to a computer, by way of a compiler or interpreter, and on the other to a human.
 

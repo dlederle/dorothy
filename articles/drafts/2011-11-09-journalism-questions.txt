@@ -1,6 +1,7 @@
 --- 
 title: Journalism Questions
 date: 09/11/2011
+category: abstract
 
 http://www.cjr.org/feature/confidence_game.php?page=all
 This piece raises a lot of problems for me.
