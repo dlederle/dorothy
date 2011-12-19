@@ -8,6 +8,7 @@ One of the key components of the game's atmosphere is the music, which keeps pac
 I hope to explore the ways in which the music factors in to the overall experience of *Gravitation* by exploring the game's source code.
 
 Firstly, if you have not played *Gravitation*, please go do so, it takes less than ten minutes and is one of the more moving works of electronic literature I know.
+
 *Spoilers Below*
 
 The game opens with your character in a small box of visibility, surrounded by blackness.
@@ -57,6 +58,6 @@ It is used later as a multiplier for fading tracks in and out.
     double trackFadeInLevel = playerEmotion * (numTimbres-1);
 
 
-It is interesting that in this code Rohrer is treating the "playerEmotion" to be state of the game player's avatar, not the player themselves, which would be much more difficult to asses.
+It is interesting that in this code Rohrer is treating the "playerEmotion" to be state of the game player's avatar, not the player themselves, which would be much more difficult to assess.
 However, the discordant music will affect the human player's mood.
-By tying the music to the avatar's emotion, Rorher attempts to connect the player mood with the avatar mood.
+By tying the music to the avatar's emotion, Rohrer attempts to connect the player mood with the avatar mood.
