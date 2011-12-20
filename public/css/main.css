@@ -11,11 +11,11 @@ body {
 header, footer, section, article {
 	display: block;
 }
-#content {
-}
 
 #navbar {
-  background:#99CCFF;
+  outline-color: #5A94BA;
+  outline-style: ridge;
+  outline-width: thin;
   margin:0 auto;
 }
 
@@ -23,6 +23,7 @@ header, footer, section, article {
   padding-top: 5px;
   padding-bottom: 5px;
   position: relative;
+  text-align: center;
 }
 
 #navlist li {
@@ -33,7 +34,11 @@ header, footer, section, article {
 }
 
 #navlist a {
-  color: #666699;
+  color: #b83000;
+}
+
+#navlist div {
+  text-align: left;
 }
 
 #logo {
@@ -48,7 +53,7 @@ header, footer, section, article {
 }
 
 #logo a {
-  color: #FFFFCC;
+  color: #5A94BA;
 }
 
 #logo span{

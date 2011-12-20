@@ -2,16 +2,15 @@
 <html>
   <head>
     <link rel="stylesheet" type="text/css" href="/css/main.css">
-    <link rel="stylesheet" href="http://twitter.github.com/bootstrap/1.3.0    /bootstrap.min.css">
     <link rel="alternate" type="application/atom+xml" title="<%= title %> - feed" href="http://feeds.feedburner.com/dlederle/blog" />
     <meta http-equiv="Content-Type" content="text/html; charset=UTF-8"/> 
     <meta name="description"
       content="<%= @context[:description] || 'Default description' %>" />
     <title>
-    <% if @path == 'index' %>
-      Blog | dlederle.com
-    <% elsif @path.split('/').compact.length == 4 %>
-      <%= title %>  | blog.dlederle.com
+    <% if @path.split('/').compact.length == 4 %>
+      <%= title %>  | dlederle.com
+    <% else %>
+      <%= @pageTitle %> | dlederle.com
     <% end %>
     </title>
   </head>
@@ -21,7 +20,7 @@
         <li>
           <div id="logo">
             <a href="/">Dylan Lederle-Ensign</a>
-            <span> - Blog</span>
+            <span> - <%= @pageTitle %></span>
           </div>
         </li>
         <li><a href="/about">About</a></li>
