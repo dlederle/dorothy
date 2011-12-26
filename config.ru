@@ -18,7 +18,7 @@ toto = Toto::Server.new do
   # set [:setting], [value]
   # 
     set :author,    "Dylan Lederle-Ensign"                    # blog author
-    set :title,      "Codes, Culture, etc"                    # site title
+    set :title,     "Dylan writes about things"                     # site title
   # set :root,      "index"                                   # page to load on /
   #  set :date,      lambda {|now| now.strftime("%m/%d/%Y") }  # date format for articles
   # set :markdown,
@@ -28,7 +28,7 @@ toto = Toto::Server.new do
   # set :summary,   :max => 150, :delim => /~/                # length of article summary and delimiter
     set :ext,       'txt'                                     # file extension for articles
   # set :cache,      28800                                    # cache duration, in seconds
-    set :url,       'blog.dlederle.com'
+    set :url,       'dlederle.com'
     set :date, lambda {|now| now.strftime("%B #{now.day.ordinal} %Y") }
 end
 
