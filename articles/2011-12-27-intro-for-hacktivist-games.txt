@@ -1,0 +1,71 @@
+--- 
+title: Intro for Hacktivist Games
+date: 27/12/2011
+categories: gamedesign, hacktivist
+
+Last spring I did an independent study with [Dr. Whalen](https://twitter.com/#!/zachwhalen) titled "Narrative Game Design", although it ended up straying around a good bit.
+I'm working through the final paper I wrote, revising it and re-posting it here, rather than at [my dead umwblogs site](http://gamedesign.umwblogs.org).
+Here is the introduction, with more to come as I finish working.
+
+Activism and the Internet were in the news a lot last spring, coming home to Wall Street after the conclusion of my independent study.
+Their intersection with gaming was <a href="http://playthisthing.com/tahrir-game" target="_blank">discussed at Play This Thing</a>. 
+I began my own attempt at exploring the <a href="http://gamedesign.umwblogs.org/2011/03/06/jan25-postmortem/" target="_blank">revolution in Egypt</a> through a game.
+In the course of research for that game, I read a post on the<a href="http://blog.strongmangames.co.uk/post/2359054606/hacktivist-games"> Strongman Games blog</a> exploring the author's response to Wikileaks and newsgaming. 
+The post concluded by proposing a new genre of games, hacktivist games, in which the games' procedural rhetoric is carried out onto the world directly. 
+I disagree with many of the specifics in the post, but found the core idea of a hacktivist game exciting. 
+In the upcoming sections I will define hacktivism, procedural rhetoric and metalepsis, and use those definitions to expand on the original idea of hacktivist games.
+
+##Hacktivism
+
+Hacktivism is a term given to politically motivated instances of hacking.
+In <a href="http://thehacktivist.com/">What is Hacktivism</a> the hacker metac0m gives his definition as 
+     “Hacktivism: a policy of hacking, phreaking or creating 
+     technology to achieve a political or social goal.” 
+
+This definition is rooted in the idea that hackers are not criminals, but explorers and creators of technology.
+One of the central tenets of hacking culture is that all information should be freely available and accessible. 
+<a href="http://www.theregister.co.uk/2002/04/19/waging_peace_on_the_internet/ ">The goal for hackers </a>who subscribe to this ideal is the creation of technology that promotes free access to information, typically through the Internet.
+
+<a href="http://www.counterpunch.org/assange11252006.html">The second computer worm </a>on record was a politically motivated, hacktivist action.
+Called “WANK”, an acronym for Worms Against Nuclear Killers, the worm was not subtle.
+It modified the login screens of NASA and Department of Energy computers to display the anti-nuclear message: “You talk of times of peace for all, and then prepare for war.” 
+The creator(s) of WANK seem to have perpetrated digital graffiti rather than a true hijacking of the infected system. 
+Easy to spot, <a href="http://www.cert.org/advisories/CA-1989-04.htm">techniques were quickly drawn up</a> for removal, and it is doubtful the worm had any significant impact.
+
+*WANK* provided only commentary, stopping short of action.
+While *WANK* utilized the networked capabilities of the target computers to spread its message, it did not make use of the computational, or procedural nature of computers.
+It is easy to imagine a video game equivalent, and most contemporary [political games](http://www.newsgaming.com/games/index12.htm) operate on a similar rhetorical plane, albeit at a more sophisticated simulative level.
+A truly hacktivist game would not only have rhetorical impact, but also computational or physical results.
+
+Distributed Denial of Service attacks are one of the most commonly cited examples of hacktivism.
+The methods used to carry out a DDoS attack may vary, but the intent is to shut down a targeted server, usually flooding it with requests for information. 
+Typically DDoS attacks are carried out by botnets of computers infected with spyware.
+A recent example of politically motivated DDoS-ing was carried out by the hacker group “Anonymous” in <a href="http://www.csmonitor.com/USA/2010/1209/How-pro-WikiLeaks-hackers-wage-cyberwar-without-hijacking-your-computer">retaliation for Mastercard stopping donations </a>to the organization WikiLeaks.
+
+DDoS attacks have been compared to digital sit-ins, but this is off the mark, ignoring the relative social risks involved. <a href="http://www.guardian.co.uk/technology/2011/jan/25/net-activism-delusion">Cory Doctorow writes</a> 
+     “As a tactic, DDoS has more in common with filling a 
+     business's locks with super glue, or cutting its 
+     phone lines – risky, to be sure, but closer to 
+     vandalism and thus less apt to convince your 
+     neighbours to look sympathetically on your cause.” 
+
+The name “Anonymous” embodies the difference.
+While a sit-in demonstrates that every member of the protest is committed enough to be arrested for their cause, DDoS attacks just show that someone somewhere is committed enough to infect other people's computers for a cause.
+
+Anonymous does not carry out their DDoS attacks exclusively through spyware infected botnets. 
+<a href="http://en.wikipedia.org/wiki/LOIC">The Low Orbit Ion Cannon</a> is a program that allows users to voluntarily join a botnet. 
+The controller of this volunteer botnet can then DDoS a server of their choice. 
+The people involved voluntarily use their computer's processing power and bandwidth to carry out the attack rather than being infected by a virus.
+This program addresses some of the difficulties of DDoS as a hacktivist technique, but not all.
+Firstly, the scale of users is not enough to knock out most servers, even if they were <a href="http://www.networkworld.com/news/2010/121010-wikileaks-ddos-tool-downloads-grow.html">all targeted at the same IP.</a> 
+Secondly, after signing on the user has no influence over how the attack proceeds, and their participation is subordinated to someone else.
+Most importantly though, these attacks categorically work against the hacker ethic of open and free information by closing off all access to the target site. 
+Hacktivist Oxblood Ruffin, quoted in *What is Hacktivism* states: 
+     “Hackers should promote the free flow of information, 
+     and causing anything to disrupt, prevent, or retard 
+     that flow is improper.”
+
+Last Spring, hacktivist collective *Telecomix* attempted to [reconnect North Africa](http://werebuild.eu/wiki/Egypt/Main_Page) after several countries' internet access was shut off.
+Whether or not they were completely successful, this type of action strikes me as a positive goal for hacktivism.
+Rather than destroy, repairing networks is constructive.
+I do not have the proper technical know-how, but I imagine that it is possible to design a counterpart to the LOIC which repairs broken connections, rather than create them.
