@@ -1,0 +1,52 @@
+--- 
+title: Procedural Rhetoric and Meaningful Games
+date: 30/12/2011
+categories: gamedesign, hacktivist
+
+Continuing my reposting of my thesis from last Spring's independent study.
+
+In [*Persuasive Games*](http://mitpress.mit.edu/catalog/item/default.asp?ttype=2&tid=11152), Ian Bogost defines the term procedural rhetoric as "a practice of using processes persuasively" (Bogost, 3). 
+Using examples from his own game studio, also called [Persuasive Games](http://www.persuasivegames.com/) and others, Bogost builds the case that processes have the ability to make persuasive arguments. 
+They do this "through the authorship of rules of behavior, the construction of dynamic models" (Bogost 29).
+
+The basis of procedural rhetoric is that, when constructing an algorithmic model of another system, one which typically has a basis in the real world, the author of the model system makes statements about the modeled system.
+The "reader" of the model can then construct meaning from their experience of the model and apply that to their relationship with the modeled system. 
+In games, this concept has been called ["dynamical meaning" by Jon Blow.](http://braid-game.com/news/2008/11/a-new-lecture-about-story-and-game-design/)
+Dynamical meaning can be extracted from any model system, a category that games fall into. 
+Procedural rhetoric then, is the conscious management of a game's dynamic meaning in order to persuade the audience.
+
+The ability to construct meaning from a system becomes difficult, if not impossible, if the system is sufficiently abstracted away from reality.
+Perhaps the most famous example is Janet Murray's reading of *Tetris* as a metaphor for Cold War era anxiety over work, presented in her book [*Hamlet on the Holodeck.*](http://mitpress.mit.edu/catalog/item/default.asp?ttype=2&tid=5477)
+Critics, such as Marku Eskelinen, have argued convincingly that this is an inaccurate analysis of a simple puzzle game. 
+<a href="http://gamestudies.org/0101/eskelinen/">Eskelinen states:</a> 
+>    Instead of studying the actual game Murray tries to interpret its supposed content, or better yet, project her favourite content on it; consequently we don't learn anything of the features that make *Tetris* a game.
+
+This illustrates one of the clear challenges in understanding the meaning of games.
+Games have a dynamic meaning arising from their mechanics and the interaction of the player, but they also may have a representational layer that may include the graphics and story of the game. 
+In addition, many games have representational and dynamic layers which contradict each other, as Blow explores in his lecture <a href="http://gamedesign.umwblogs.org/2011/03/10/conflicts-in-game-design/ ">Challenges in Game Design.</a>
+
+In his dissertation [*Play the Message*](http://www.ludology.org/2011/03/frascaplaythemessage.html), Gonzalo Frasca presents a view of games that attempts to account for the multiple layers that convey meaning in a game. 
+Previous studies of procedural rhetoric have focused mainly on the mechanics of a game. 
+Frasca's dissertation is focused on play, the human interaction with a game, as much as it is with games as systems and adds this new dimension to the study of procedural rhetoric in games. 
+His layers of a game are: playformance, mechanics, and playworld (Frasca, 91).
+
+Mechanics is the rules based layer, and is equivalent to a compression of the [MDA framework's](http://gamedesign.umwblogs.org/2011/01/29/mda-framework-and-games-as-art/) Mechanics and Dynamics layers.
+Frasca defines the playworld as "the activity's materiality: its objects, space and time."
+This corresponds roughly to the Aesthetics of MDA, and is where the representational aspects of games appear.
+Frasca's most interesting category is what he calls playformance. 
+An essential element in games is the possible actions the human player is allowed by the mechanical layer of the game. 
+Frasca argues that the way in which the player plays is as significant as the mechanical or representational layers, and forms of playing are critical to constructing meaning (Frasca, 139). 
+The academic consequence of playformance is that, in order to study a game effectively, it must be experienced.
+Frasca illustrates this with an amusing anecdote involving the difference between reading the rules of and playing a kissing game (Frasca, 171).
+>  What happened to the players is that, at least during the first game sessions, sucking a card and passing it around is quite a surreal and comic situation, particularly when the players faces get really close to each other. What I was not able to predict is that, facing this situation, players seem to naturally tend to laugh. Physiologically, breathing in and laughing are incompatible actions.
+
+Reading and imagining the way the game might play out was inadequate for full understanding of the game.
+
+While formalized procedural rhetoric is a relatively new concept, Frasca shows that games have long been used to persuasively model real world systems. 
+Frasca explores the history of the popular board game *Monopoly*, a game originally designed by Lizzie Phillips (1904) as *The Landlord's Game*.
+Phillips stated that: 
+>  The object of the game is not only to afford amusement to the players, but to illustrate to them how... the landlord has an advantage over other enterprises and also how the single tax would discourage land speculation. (Phillips qtd. in Frasca, 100) 
+
+This game was intended as a dramatization of Phillips' political beliefs, but repackaged as *Monopoly* the game was received very differently by it's depression era audience, as a fantasy of escape from their impoverished lives (Frasca, 101). 
+This misinterpretation illustrates a challenge that persuasive games share with other forms of rhetoric, namely being consumed by an unintended, uninformed audience.
+
