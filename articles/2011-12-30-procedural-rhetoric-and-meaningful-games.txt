@@ -1,9 +1,9 @@
 --- 
 title: Procedural Rhetoric and Meaningful Games
 date: 30/12/2011
-categories: gamedesign, hacktivist
+category: hacktivist
 
-Continuing my reposting of my thesis from last Spring's independent study.
+Part 2 of [Hacktivist Games](/hacktivist)
 
 In [*Persuasive Games*](http://mitpress.mit.edu/catalog/item/default.asp?ttype=2&tid=11152), Ian Bogost defines the term procedural rhetoric as "a practice of using processes persuasively" (Bogost, 3). 
 Using examples from his own game studio, also called [Persuasive Games](http://www.persuasivegames.com/) and others, Bogost builds the case that processes have the ability to make persuasive arguments. 

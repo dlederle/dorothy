@@ -1,7 +1,9 @@
 --- 
 title: Intro for Hacktivist Games
 date: 27/12/2011
-categories: gamedesign, hacktivist
+category: hacktivist
+
+Part 1 of [Hacktivist Games](/hacktivist)
 
 Last spring I did an independent study with [Dr. Whalen](https://twitter.com/#!/zachwhalen) titled "Narrative Game Design", although it ended up straying around a good bit.
 I'm working through the final paper I wrote, revising it and re-posting it here, rather than at [my dead umwblogs site](http://gamedesign.umwblogs.org).
@@ -69,3 +71,5 @@ Last Spring, hacktivist collective *Telecomix* attempted to [reconnect North Afr
 Whether or not they were completely successful, this type of action strikes me as a positive goal for hacktivism.
 Rather than destroy, repairing networks is constructive.
 I do not have the proper technical know-how, but I imagine that it is possible to design a counterpart to the LOIC which repairs broken connections, rather than create them.
+
+Continue with [part 2](/2011/12/30/procedural-rhetoric-and-meaningful-games/)

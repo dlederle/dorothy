@@ -1,0 +1,5 @@
+<% @pageTitle = 'Hacktivist Games' %>
+<% @articles.select {|a| a[:category] == 'hacktivist' }[0...10].each do |article| %>
+  <a href="<%= article.path %>"><%= article.title %></a>
+  </br>
+<% end %>
