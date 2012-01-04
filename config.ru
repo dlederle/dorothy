@@ -24,10 +24,10 @@ toto = Toto::Server.new do
     set :markdown, :smart              
   # use markdown + smart-mode
   # set :disqus,    dlederlecom                                     # disqus id, or false
-  # set :summary,   :max => 150, :delim => /~/                # length of article summary and delimiter
+    set :summary,   :max => 150, :delim => /~\n/                # length of article summary and delimiter
     set :ext,       'txt'                                     # file extension for articles
   # set :cache,      28800                                    # cache duration, in seconds
-    set :url,       'http://dlederle.com'
+    set :url,       'http://dlederle.com/'
     set :date,      lambda {|now| now.strftime("%Y/%m/%d")}
 end
 
