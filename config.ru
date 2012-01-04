@@ -29,7 +29,7 @@ toto = Toto::Server.new do
     set :ext,       'txt'                                     # file extension for articles
   # set :cache,      28800                                    # cache duration, in seconds
     set :url,       'http://dlederle.com'
-    set :date,      lambda {|now| now.strftime("%d/%m/%Y") }
+    set :date,      lambda {|now| now.strftime("%d/%m/%Y").rfc3339 }
 end
 
 # Redirect www.blog.dlederle.com to blog.dlederle.com
