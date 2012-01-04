@@ -19,17 +19,16 @@ toto = Toto::Server.new do
   # 
     set :author,    "Dylan Lederle-Ensign"                    # blog author
     set :title,     "Dylan writes about things"                     # site title
-  # set :root,      "index"                                   # page to load on /
+    set :root,      "index"                                   # page to load on /
   #  set :date,      lambda {|now| now.strftime("%m/%d/%Y") }  # date format for articles
-  # set :markdown,
-  # :smart              
+    set :markdown, :smart              
   # use markdown + smart-mode
   # set :disqus,    dlederlecom                                     # disqus id, or false
   # set :summary,   :max => 150, :delim => /~/                # length of article summary and delimiter
     set :ext,       'txt'                                     # file extension for articles
   # set :cache,      28800                                    # cache duration, in seconds
     set :url,       'http://dlederle.com'
-    set :date,      lambda {|now| now.strftime("%d/%m/%Y").rfc3339 }
+    set :date,      lambda {|now| now.strftime("%Y/%m/%d")}
 end
 
 # Redirect www.blog.dlederle.com to blog.dlederle.com
