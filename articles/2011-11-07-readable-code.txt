@@ -7,6 +7,7 @@ category: engl457
 > Thus, programs must be written for people to read, and only incidentally for machines to execute. 
 >
 > Abelson and Sussman, Preface of [*Structure and Interpretation of Computer Programs*](http://mitpress.mit.edu/sicp/full-text/book/book.html)
+~
 
 This is the essence of what makes code studies a viable methodology. While many uses of the word 'code' imply obfuscation or the hiding of meaning, well written computer code should do the opposite.
 It should clearly communicate its purpose and underlying workings to any reader with programmatic literacy.

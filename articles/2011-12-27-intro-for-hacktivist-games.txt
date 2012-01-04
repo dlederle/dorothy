@@ -8,6 +8,7 @@ Part 1 of [Hacktivist Games](/hacktivist)
 Last spring I did an independent study with [Dr. Whalen](https://twitter.com/#!/zachwhalen) titled "Narrative Game Design", although it ended up straying around a good bit.
 I'm working through the final paper I wrote, revising it and re-posting it here, rather than at [my dead umwblogs site](http://gamedesign.umwblogs.org).
 Here is the introduction, with more to come as I finish working.
+~
 
 Activism and the Internet were in the news a lot last spring, coming home to Wall Street after the conclusion of my independent study.
 Their intersection with gaming was <a href="http://playthisthing.com/tahrir-game" target="_blank">discussed at Play This Thing</a>. 

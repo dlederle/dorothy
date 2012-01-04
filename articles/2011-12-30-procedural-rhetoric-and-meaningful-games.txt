@@ -8,6 +8,7 @@ Part 2 of [Hacktivist Games](/hacktivist)
 In [*Persuasive Games*](http://mitpress.mit.edu/catalog/item/default.asp?ttype=2&tid=11152), Ian Bogost defines the term procedural rhetoric as "a practice of using processes persuasively" (Bogost, 3). 
 Using examples from his own game studio, also called [Persuasive Games](http://www.persuasivegames.com/) and others, Bogost builds the case that processes have the ability to make persuasive arguments. 
 They do this "through the authorship of rules of behavior, the construction of dynamic models" (Bogost 29).
+~
 
 The basis of procedural rhetoric is that, when constructing an algorithmic model of another system, one which typically has a basis in the real world, the author of the model system makes statements about the modeled system.
 The "reader" of the model can then construct meaning from their experience of the model and apply that to their relationship with the modeled system. 

@@ -4,6 +4,7 @@ date: 21/12/2011
 category: abstract
 
 I'm trying to kick-start some writing on this blog that is not assigned, so here are some short thoughts on rules in digital games vs non-digital.
+~
 
 While playing *Dungeons and Dragons*  with some friends about a month ago, I started thinking about the difference between that experience and the experience of playing *Skyrim*.
 Now, I have not actually played *Skyrim*, but it was a topic of conversation, and any digital RPG could be substituted in.
