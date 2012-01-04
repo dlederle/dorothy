@@ -6,6 +6,7 @@ category: engl457
 Jason Rohrer describes his [*Gravitation*](http://hcsoftware.sourceforge.net/gravitation/) as "a video game about mania, melancholia, and the creative process".
 One of the key components of the game's atmosphere is the music, which keeps pace with the game's shifting mood.
 I hope to explore the ways in which the music factors in to the overall experience of *Gravitation* by exploring the game's source code.
+~
 
 Firstly, if you have not played *Gravitation*, please go do so, it takes less than ten minutes and is one of the more moving works of electronic literature I know.
 

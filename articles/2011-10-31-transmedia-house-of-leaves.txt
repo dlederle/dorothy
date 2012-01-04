@@ -5,6 +5,8 @@ category: engl457
 
 Mark Danielewski's novel House of Leaves forces the reader to think about the different media that we normally take for granted. 
 Most obviously House of Leaves is obssessed with film, but also explores the boundaries of what a printed book can achieve, and through the companion musical album *Haunted*, makes itself a multi-media experience.
+~
+
 As Jessica Pressman illuminates in her essay "*House of Leaves*: Reading the Networked novel", (Available on her [website](http://jessicapressman.commons.yale.edu/publications/)) this novel is just one node in the wide network of criticism it both references and generates.
 To best understand the convoluted web it weaves, a community of dedicated readers is necessary.
 For House of Leaves, the [official forum](http://www.houseofleaves.com/forum/) serves as the breeding ground for these discussions. 

@@ -4,6 +4,8 @@ date: 28/11/2011
 category: engl457
 
 In the [Digital Humanities Quarterly](http://digitalhumanities.org/dhq/) Dennis Jerz of Seton Hill University wrote a [phenomenal essay](http://digitalhumanities.org/dhq/vol/1/2/000009/000009.html), in which he explored both the source code and source cave of "the classic text computer game *Colossal Cave Adventure*".
+~
+
 Adventure was an early video game that circulated on the pre-web internet that was hugely influential for later interactive fiction.
 Interestingly, the game was originally made by Will Crowther and later modified by Don Woods.
 One of Jerz' goals in the piece is to settle cases of authorship, which proved difficult when dealing with fourty year old memories, but was clarified by examining the source code.

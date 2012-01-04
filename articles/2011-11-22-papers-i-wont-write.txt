@@ -7,6 +7,7 @@ Introducing a [new section](http://blog.dlederle.com/abstracts) on my infant blo
 Abstracts for papers I (probably) won't write.
 Sometimes I have ideas for papers I'd like to research and write up, but they almost always end up as scribbles in the marginalia of a math notebook.
 I'm going to try to write down and collect them from now on.
+~
 
 I'll see if I can go back and explore some of them more fully later on.
 If I do, I'll be sure to link to them in the original posts.

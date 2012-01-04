@@ -1,4 +1,3 @@
-
 require 'toto'
 
 # Rack config
@@ -26,7 +25,7 @@ toto = Toto::Server.new do
   # set :disqus,    dlederlecom                                     # disqus id, or false
     set :summary,   :max => 100, :delim => /~/                # length of article summary and delimiter
     set :ext,       'txt'                                     # file extension for articles
-  # set :cache,      28800                                    # cache duration, in seconds
+    set :cache,      28800                                    # cache duration, in seconds
     set :url,       'http://dlederle.com/'
     set :date,      lambda {|now| now.strftime("%B #{now.day.ordinal} %Y") }
 end

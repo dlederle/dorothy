@@ -7,6 +7,7 @@ Part 3 of [Hacktivist Games](/hacktivist)
 
 In the final chapter of her book [*Avatars of Story*](http://www.upress.umn.edu/book-division/books/avatars-of-story), Marie-Laure Ryan convincingly demonstrates that the narratalogical figure of [metalepsis](http://en.wikipedia.org/wiki/Metalepsis#Narratology) is a useful tool for the study of video games, and indeed computers in general.
 Ryan uses the metaphor of the stack to conceptualize complex narratives where the initial story generates another story (Ryan, 204).
+~
 
 The stack is one of the fundamental computer data structures. 
 Its main distinction is the “Last in, first out” functionality for storing and retrieving data. 
