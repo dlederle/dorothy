@@ -1,7 +1,3 @@
-require 'bundler'
-Bundler.setup
-
-require 'rdiscount'
 require 'toto'
 
 # Rack config
