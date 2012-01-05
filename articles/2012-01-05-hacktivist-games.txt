@@ -1,0 +1,43 @@
+--- 
+title: Hacktivist Games
+date: 05/01/2012
+category: hacktivist
+
+Part 4 of [Hacktivist Games](/hacktivist)
+
+These sections lead to the main proposal of this paper, the potential for hacktivist video games.
+A hacktivist video game would procedurally enact its argument in a game form, while having a direct computational or real world impact that carries out that argument. 
+A hacktivist game would lower the barrier of technical skill for activists interested in aiding a cause.
+It could artistically and intellectually engage its participants while simultaneously politically engaging them.
+
+A hacktivist video game would be as much a work of art as any other carefully crafted video game. 
+This fact, combined with the game's direct impact, would be a unique form of protest art that not only aims to convince the audience of its argument, but also to politically engage them in working towards a realization of the cause. 
+The goal of such a game would be to have some direct impact rather than an indirect one carried out by its players.
+
+One motivation for creating a hacktivist game would be to engage and empower a larger number of people in hacktivist causes.
+The sort of hacktivism that creates new technology to promote freedom, as explored in section I, has a very high level of technical skill associated with it.
+This is very much contradictory to traditional forms of mass activism.
+
+For example, the most famous “hacktivist” groups currently active are Anonymous and Wikileaks.
+Some may dispute their classification as hacktivist, but for most of the general public these two groups are the face of politically motivated hacking. 
+Both groups are comprised of a secretive, small, elite leadership, which is impenetrable to other people who wish to help further their causes. 
+This is directly opposed to the tactics of social or political movements in the 20th century. 
+Ground breaking community organizer Saul Alinksy once said that there are two source of power, mass money and mass people, and social movements only have access to the latter.
+
+This concentration of power in the hands of the few is not only an impediment to freedom, it exposes the entire “organization” to great risk if those few are removed. 
+Of course, a hacktivist game would not solve all of the structural problems in hacktivist organizations.
+Hopefully, by distributing the political task to a wide network of activists they could reduce risk of outside interference halting their political action.
+One application of a hacktivist game would be an interface for performing what <a href="https://www.mturk.com/mturk/welcome">Amazon's  Mechanical Turk</a> calls “Human Intelligence Tasks”. 
+These are tasks that are performed by humans, but evaluated in aggregate by a computer program. 
+The name “<a href="http://en.wikipedia.org/wiki/The_Turk">Mechanical Turk</a>” comes from a famous chess playing machine of the 18th century. 
+The “machine” beat chess players across Europe, but was actually a clever ruse.
+A chess master hid inside the base of the Turk and played the game, secretly controlling the machine.
+
+The ludic origin of that name aside, the concept of humans game play having computational impact is well known. 
+<a href="http://images.google.com/imagelabeler/">Google's Image Labeler</a> takes the form of a simple game in which players attempt to tag a series of shared images with the same tag. 
+The catch is, it must be a word which this image has not been tagged with yet.
+Humans are able to analyze the images differently than a computer algorithm would be able to. 
+A hacktivist may have a challenge which is easier solved by having a mass amount of players solve little pieces of the problem and return the results to a central computer program.
+In such a case, a carefully crafted hacktivist game would suit their purposes.
+
+

@@ -40,3 +40,5 @@ Stuxnet may not have been the first to do this, but it is certainly the most wel
 It also appears to have inspired other attackers to <a href="http://www.v3.co.uk/v3-uk/news/2045556/stuxnet-attacks-beckon-scada-threats-discovered">target similar systems.</a>
 
 In the final section of this paper, I will explore the idea of hacktivist games, which metaleptically break through to exert influence outside of the primary fictional world.
+
+Continue with [Part 4](/2012/01/05/hacktivist-games/)
