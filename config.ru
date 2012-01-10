@@ -17,7 +17,7 @@ toto = Toto::Server.new do
   # set [:setting], [value]
   # 
     set :author,    "Dylan Lederle-Ensign"                    # blog author
-    set :title,     "Dylan writes about things"                     # site title
+    set :title,     "Dylan Lederle-Ensign"                     # site title
     set :url,       "http://dlederle.com/"
     set :root,      "index"                                   # page to load on /
     set :markdown, :smart              
