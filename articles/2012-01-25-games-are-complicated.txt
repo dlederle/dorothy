@@ -2,8 +2,8 @@
 title: Games are Complicated
 date: 25/01/2012
 
-In the latest edition of [*Game Studies*](http://gamestudies.org/), [Miguel Sicart](www.miguelsicart.net) wrote an intentionally provocative piece title ["Against Procedurality"](http://gamestudies.org/1103/articles/sicart_ap), which attempts to poke at the idea of procedural rhetoric and its centrality in current academic discourse about video games.
-This could be the first public shot in a [new debate](http://www.kmjn.org/notes/sicart_against_proceduralism.html) to split the game studies world, just as [ludology vs narratology did last decade.](ludology.org/articles/Frasca_LevelUp2003.pdf)
+In the latest edition of [*Game Studies*](http://gamestudies.org/), [Miguel Sicart](http://www.miguelsicart.net) wrote an intentionally provocative piece title ["Against Procedurality"](http://gamestudies.org/1103/articles/sicart_ap), which attempts to poke at the idea of procedural rhetoric and its centrality in current academic discourse about video games.
+This could be the first public shot in a [new debate](http://www.kmjn.org/notes/sicart_against_proceduralism.html) to split the game studies world, just as [ludology vs narratology did last decade.](http://ludology.org/articles/Frasca_LevelUp2003.pdf)
 
 Sicart says that the proceduralist focus on rules comes at the expense of understanding the players' experiences with a game.
 His intent is to prompt discussion about the role of play in the formation of meaning.
@@ -12,7 +12,7 @@ However, after reading [this reflection](http://gamedesignadvance.com/?p=2409) a
 As Pratt says, procedural rhetoric is a very compelling way to interpret games.
 But, reflecting on my own experiences playing and observing people play games, the rules are usually the third layer I go to for rhetorical significance.
 
-[The MDA framework](www.cs.northwestern.edu/~hunicke/MDA.pdf) breaks games into three simultaneously coexisting layers, Mechanics, Dynamics and Aesthetics.
+[The MDA framework](http://www.cs.northwestern.edu/~hunicke/MDA.pdf) breaks games into three simultaneously coexisting layers, Mechanics, Dynamics and Aesthetics.
 The Aesthetics are, broadly, the surface portion of the game that the player experiences, and the players' emotional responses.
 The Mechanics are the rules or algorithms of the game.
 The Dynamics are the "run-time behavior of the mechanics acting on player inputs and each others’ outputs over time."
@@ -32,4 +32,3 @@ It is debatable which is less valuable.
 But, self deprecation aside, the hours of playing games gave me the impression that most games were pretty simple.
 Hours of reading have now changed that perspective.
 Most individual games are pretty simple, but trying to understand games as a whole medium is decidedly complicated.
-
