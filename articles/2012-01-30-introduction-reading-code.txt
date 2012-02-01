@@ -5,7 +5,7 @@ category: readingCode
 
 I'm reposting the final paper from the English senior seminar I took with Dr. Whalen last fall semester.
 It is an exploration into Critical Code Studies.
-Here is Part 1.
+Here is Part 1 of [Reading Code.](/readingcode)
 
 ##Introduction
 

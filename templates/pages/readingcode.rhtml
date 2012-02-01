@@ -1,0 +1,8 @@
+<% @pageTitle = 'Reading Code' %>
+
+Latest Version: <a href="pdf/Reading_Code.pdf">Reading Code.pdf</a>
+<hr>
+<% @articles.select {|a| a[:category] == 'readingCode' }[0...10].each do |article| %>
+  </br>
+  <a href="<%= article.path %>"><%= article.title %></a>
+<% end %>
