@@ -1,0 +1,17 @@
+Studying Play
+
+He begins with a historical overview of the emergence of procedurality as the dominant conceptual framework in game studies.
+
+I think one simple reason that less attention has been given to the role of play is that it is difficult to describe.
+Frasca quotes play scholar Brian Sutton Smith on play:
+> We all play occasionally, and we all know what playing feels like. But when it comes to making theoretical statements about what play is, we fall into silliness.
+
+
+Rules are by their nature much more concrete, and can be written about with more certainty.
+Through critical code readings http://dlederle.com/2011/10/06/critical-code-studies-paper-proposal/ scholars can see the very specific way in which games are formed.
+Code is textual, and even non-digital games have written rulesets.
+These texts can be quoted, cited, and included in your thesis.
+What's the MLA citation for "The feeling I had when I played Passage", or "The pleasure clicking that cow gave me".
+This might be an oversimplification, but lengthy explanations of your personal play experience seem vulnerable to long winded self indulgence that reveals more about the player than the game. 
+
+
