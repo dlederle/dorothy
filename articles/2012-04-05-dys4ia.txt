@@ -1,0 +1,78 @@
+--- 
+title: Dys4ia
+date: 05/04/2012
+
+The American Psychiatric Association defines gender dysphoria as:
+>A marked incongruence between one's experienced/expressed gender and assigned gender ([APA DSM-5](http://www.dsm5.org/ProposedRevision/Pages/proposedrevision.aspx?rid=482)).
+
+[*Dys4ia*](http://www.auntiepixelante.com/?p=1515) is an autobiographical game by Anna Anthropy, also known as Auntie Pixelante.
+It details the journey that Anthropy, a trans woman, took while undergoing hormone replacement therapy.
+The game is intensely personal, and deals with a subject that is not typically explored in games.
+The personal subject matter is intriguing, particularly in the context of a predominately male 'gamer' culture, however in this paper I will focus on the design techniques that Anthropy uses to achieve a coherent, emotionally engaging narrative.
+
+The narrative of *Dys4ia* begins with "Level 1" exploring the gender incongruence in Anthropy's everyday life.
+It concludes with a screen declaring "Maybe I should go on hormones."
+Levels 2 and 3 are filled with the challenges of obtaining and enduring hormone replacement therapy.
+Level 4 deals with what has changed in Anthropy's life, both positively and negatively, but ends hopefully.
+
+The game is composed of multiple mini-games, animations, and interactive "game-like" vignettes.
+Rather than engage with a debate over classification, I will borrow Anthropy's term of "screen".
+The screens vary in the degree of agency the player is allowed.
+None of the screens block player progress to the next screen, upon player failure the game simply continues to the next screen. 
+This makes the narrative continue smoothly, and was an intentional design decision from Anthropy, who states:
+>Games are defined by the player's interaction with rules, not by her struggle with challenge. ([Anthropy](http://www.gamesforchange.org/2012/03/anna-anthropy-interview/))
+
+The screens each last long enough for the player to recognize the point, but no longer.
+
+In their paper ["*Kaboom!* Is a Many-Splendored Thing"](http://games.soe.ucsc.edu/kaboom-many-splendored-thing-interpretation-and-design-methodology-message-driven-games-using-graphi) Mike Treanor, Michael Mateas and Noah Wardip-Fruin explore the interaction between graphical logics and procedural rhetoric.
+*Dys4ia* includes an expressive representational layer of text, graphics and music, but they serve to support and assist with the emotionally effective procedural layer.
+The small size of *Dys4ia*'s games allows them to be carefully focused on expressing one idea at a time through game mechanics.
+
+Appropriately, *Dys4ia* features several iterations of *Kaboom!* like screens.
+In the first, to lower your blood pressure, the player must catch falling pills in a mouth.
+After catching enough pills, the screen moves on, concluding Level 2.
+Later on, in Level 3, you control a bottle of Estradiol pills, dropping them into a waiting mouth.
+This time however, the score counter is labeled "Liver %", and it decreases with each pill, casting doubt over your choice.
+Indeed, several screens later, the pill bottle is discarded entirely.
+All three of these were variations of *Kaboom!*, and each had similar graphical components.
+However, by shifting which element was being controlled, Anthropy changes their interpretation.
+
+One of the screens in Level 3 has the player control a pair of breasts, with the text "My nipples are incredibly sensitive" at the bottom.
+The screen contains small obstacles, which prompts a loss state if they come in contact with the nipples.
+In another design inversion, Level 4 features the same screen, however the words say "My tits are getting bigger".
+As the player maneuvers the breasts upwards, the obstacles which formerly ended the screen bounce off, and the text changes to "My girlfriend can finally touch my nipples again."
+The players initial apprehension at seeing an unwinnable screen is replaced by a feeling of empowerment.
+
+The opening screen features the player controlling an oddly shaped block, trying to pass through a wall, with text that says "I feel weird about my body."
+After trying the limited possibilities and recognizing none of them will work, the player becomes frustrated.
+
+>This was a story about frustration - in what other form do people complain as much about being frustrated? A video game lets you set up goals for the player and make her fail to achieve them. A reader can't fail a book. It’s an entirely different level of empathy. [(Anthropy)](http://www.penny-arcade.com/report/editorial-article/dys4ia-tackles-gender-politics-sense-of-self-and-personal-growth...-on-newg)
+
+Gamers are typically frustrated by either their own failure when confronted with a game challenge, or by reaching the limits of the game system.
+Anthropy makes the game challenge nearly non-existent (or at least non consequential) but the game's system has limits that make it impossible to proceed in the direction you want.
+This shifts the metaphor to one of personal frustration against an impossible situation, rather than one that can be waited through.
+
+This first screen is light and played through in about 5 seconds, but it is filled with metaphor, and effectively sets the stage for the rest of the game.
+The rest of Level 1 includes several more screens which portray the every day humiliation and discomfort experienced pre-HRT, but the feeling of frustration is most effectively carried through in the first screen.
+
+Level 3 features another version of this screen, in which the shape of the player controlled block allows less progress through the wall, with text that states "I feel weirder about my body that I ever have."
+In the most noticeable of these design inversions, the final screen of the game is yet another version.
+Your shape is flickering, shifting size and configuration rapidly as you maneuver towards the wall.
+Just before you are able to determine if you will fit in, the game ends flashing the words "THE END" which pivot to become "JUST THE BEGINNING"
+This ends the game on an ambiguous, but hopeful note.
+Again, while the words frame the ludic experience, the hope of making it through the wall, and the apprehension of failing, is the emotional focal point of the screen.
+Ending the game unfulfilled reminded me that this story was not over.
+While the drama of the earlier stages of HRT were finished, Anthropy and other trans people still have to continue with their everyday lives.
+In a sense, the entire process of HRT was done to get through that first wall.
+
+Works Cited:
+
+"Gender dysphoria in adolescents or adults." American Psychiatric Association DSM-5 Development. N.p., 2011. Web. 5 Apr 2012. <http://www.dsm5.org/ProposedRevision/Pages/proposedrevision.aspx?rid=482>.
+
+Anthropy, Anna. Games For Change. Interview. Web. <http://www.gamesforchange.org/2012/03/anna-anthropy-interview/>.
+
+Anthropy, Anna. 2012. Web Game. <http://www.newgrounds.com/portal/view/591565>.
+
+Anthropy, Anna. Penny Arcade Report. Interview. Web. <http://www.penny-arcade.com/report/editorial-article/dys4ia-tackles-gender-politics-sense-of-self-and-personal-growth...-on-newg>.
+
+Treanor, M, M Mateas, and N Wardrip-Fruin. "Kaboom! is a many-splendored thing: an interpretation and design methodology for message-driven games using graphical logics."2010. Web. 5 Apr. 2012. <http://games.soe.ucsc.edu/kaboom-many-splendored-thing-interpretation-and-design-methodology-message-driven-games-using-graphi>.

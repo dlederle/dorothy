@@ -1,0 +1,50 @@
+I came across [this article](http://dichtung-digital.mewi.unibas.ch/2012/41/rettberg/rettberg.htm) detailing the founding and early history of the Electronic Literature Organization, whose collections have been the source of many posts on this blog.
+The article is written by Scott Rettburg, a co-founder of the ELO and its first executive director.
+
+One of the things I found most interesting about his reflections on the early days, was the fact that "e-lit" was not a unified field prior to the ELO.
+Interactive Fiction, hypertext, visual poetry, and other experiments considered themselves seperate communities.
+Even within the hypertext community there was a division between the Eastgate authors and the open web authors.
+The ELO was a counscious attempt to unite these communities, and the existence of this course in e-lit proves that it was a success.
+
+The most visible project of the ELO which we have used in this class is the Electronic Literature Collection, which is basically what we understand e-lit to be.
+Rettburg says:
+	"While I don’t share this view of the ELC as a canon, but rather think of the ELC as sort of periodic snapshot of an emergent field in motion, I do think it is remarkable that only one year after its publication, some scholars were already thinking of it in that way."
+To us, as undergrads and outsiders to the broader e-lit community, this is where we know to look when we want electronic literature.
+
+Another theme that I saw running through the article was the relationship between the artistic or literary uses of technology and the industrial.
+The ELO was founded in 1999, at the height of the dot-com boom, and their early activities were funded by some of those companies.
+After the bubble burst, especially post-9/11 when the entire American economy was having difficulty, the ELO was struggling to exist.
+It was ultimately saved by the UCLA, supported in part by their English department.
+However, this relationship between those who use technology for artistic purposes and those who use it for commercial purposes runs deeper into the history of e-lit.
+
+Hypertext was a literary theory before it became the dominant form of information distribution that is today's web.
+Literary hypertext authors, perhaps illustrated by the Eastgate/open-web split the author mentions, used their art to explore the rhizomes and networks they saw in the world.
+Today, those networks are even more important.
+While the types of poems we read in class are fringe works today, reddit and Facebook conversations are filled with links and networks, making hypertext perhaps the most common form of writing today.
+
+On the other hand, interactive fiction emerged from the Command Line Interfaces that preceded the graphical user interfaces we typically experience today.
+As opposed to hypertext, here the artistic emerged from the industrial.
+
+This historical look at the ELO also prompted me to consider the future of e-lit.
+As I speculated earlier, I think much of the writing produced today includes elements of hypertext, and games seem to be getting included in every aspect of life.
+With the proliferation of digital works, does it even make sense to distinguish e-lit from lit anymore?
+I think so, but mostly because new forms require new techniques of analysis, which is challenging.
+As more of the world becomes "born-digital," e-lit works will become more commonplace, and the analytical tools necessary to understand them will no longer be so esoteric.
+
+
+Early Days:
+	Founded intentionally to unite disparate artistic communities (IF, hypertext, visual poetry, Eastgate vs open web Hyper-Text)
+		-Interesting to recall that hypertext was a literary theory before it was the dominant form of information distrobution
+			-Parallel: IF emerged from CLI, art reflecting tech, whereas hypertext was a literary theory first
+	
+	Relationship between the dot coms and the artists
+		-So far as I know this is completely over?
+			-Hence why E-lit is not mainstream?
+Post-Crash:
+	-Academic (limited) funding
+	-ELC, Electronic Literature Collection: Most useful for this class
+	"While I don’t share this view of the ELC as a canon, but rather think of the ELC as sort of periodic snapshot of an emergent field in motion, I do think it is remarkable that only one year after its publication, some scholars were already thinking of it in that way."
+		-But to us that is what it is
+			-As undergrads we don't subscribe to esoteric mailing lists, and unless something gets reddit'd, where will we find e-lit?
+
+
