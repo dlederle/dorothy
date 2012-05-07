@@ -1,0 +1,57 @@
+Dys4ia
+
+Open with Dys4ia, will use it to explore procedurality in games vs player experience
+Two goals: expand my analysis of Dys4ia, and develop a methodology for studying player experience in games, then compare the insights gained from player experience vs procedural rhetoric
+
+Sources:
+
+	-Dys4ia
+	-2 Interviews w/ AA
+	-Persuasive Games
+	-Kaboom! is a many splendored thing
+	-Against Procedurality
+	-Play the Message
+	-Some resources on transgender issues
+		-Medical definition of gender dysphoria
+
+Notes:
+  
+  Against Procedurality - Miguel Sicart
+    Sicart considers the prevailing proceduralist school, as typified by Bogost, an incomplete account of meaning in games.
+    "The importance of procedurality in games studies cannot be denied."
+    "For each procedural analysis there must be an orthogonal analysis of play that completes the arguments of meaning by means of accounting the play experience."
+    
+
+  The Meaning of Video Games - Steven E. Jones
+    (9) "A video game...is a system designed such that it only fulfills it [sic] potential for meaning when its specific technical features...are expressed as the game makes its way out into the world, when it's played."
+    (101) Context: A player experiencing facade for the first time saying "'What the hell is this?' It was just so outside his expectations about what you do in a game, that he didn't even know how to think about the experience."
+      -Anthropy, placing the game in the context of Newgrounds is an important rhetorical move, beyond the procedurality of the game
+        -Rather than downloading and playing alone, you immediately see other people's reactions in the comment thread
+        -Confronts the academic/art game researcher interested in her work who on newgrounds can also find infantile (example, example, example)
+        -And confronts the newgrounds audience, who are not typically thought of as welcoming or progressively minded...
+      In the same section: Discussion of whether Facade is a game or not. Applies to Dys4ia as well, but is pointless.
+
+  Play the Message - Gonzalo Frasca
+
+    Frasca's Framework: (91)
+      Playformance- The act of the player playing
+      Mechanics- The rules of the activity (game)
+      Playworld- The space and time of the activity
+    
+
+    -Play is difficult to define
+      Brian Sutton-Smith:
+      "We all play occasionally, and we all know what playing feels like. But when it comes to making theoretical statements about what play is, we fall into silliness" -From The Ambiguity of Play, qtd in Frasca (35)
+
+"A system-centric approach to games can also lead to unjustly fetishizing rules over player performance." (65) Pair w/ quotes from Sicart
+  Dys4ia lends clarity to its rule-based arguments, by creating very small, very tightly focused systems.
+  By limiting the players' interactions, Anthropy is able to focus their attention on the few rules available.
+  Dys4ia achieves depth by rapidly sequencing these vignettes, providing a large number of rulesets, which are relatively shallow individually.
+  This structure decreases the time between the aporia/epiphany (To reduce player frustration) which can increase player confusion.
+  The game continues, whether or not the player has addressed their simulation fever.
+    -EXPAND ON THIS!
+  
+      -Along that line, "player experience" is nebulous and inherently subjective
+        -My experience as a straight male was typically confusion and discomfort (Which, in certain cases were intentionally designed experiences, but others (SPECIFIC) were possibly not?)
+        -Trans-folks experience (From online comments) was one of comfort and solidarity
+        -Gamers from Newgrounds experience was confusion and possibly rejection

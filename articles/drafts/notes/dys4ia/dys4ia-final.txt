@@ -1,0 +1,207 @@
+Anna Anthropy's *Dys4ia* is an autobiographical game which tells the story of Anthropy's experience as a trans-woman undergoing hormone replacement therapy.
+It is a fascinating game, both for its subject matter and its design.
+In this paper, I examine *Dys4ia's* design, focusing on the elements that create space for the player to form meaningful interpretations.
+I was motivated to focus on play by Miguel Sicart's article "Against Procedurality" (Sicart, 2012).
+Using the play-rhetorical framework from Gonzalo Frasca's dissertation *Play The Message: Play, Game, and Videogame Rhetoric* (Frasca, 2007), I look at the way procedural elements create space for play.
+Finally, I reflect on the interpretive value of focusing on play.
+
+###Play Rhetoric
+
+Ian Bogost's theory of procedural rhetoric is the predominant theory of persuasion and meaning in games studies.
+Bogost defines procedural rhetoric as "a practice of using processes persuasively" and "computational processes in particular" (Bogost, 3).
+Put simply, procedural rhetoric is the concept that by modeling a real world situation, a computational system can make arguments about the situation.
+For games, this can be reduced to: the rules of a game make arguments about the world."
+
+In "Against Procedurality", Sicart criticizes the prevailing proceduralist school in game studies, as typified by Bogost, for providing an incomplete account of meaning in games.
+Sicart questions the restrictions of what he calls "proceduralist" games, in which the designer tightly manipulates the player to share a message.
+Sicart holds up play experiences that offer more freedom of expression for the player.
+
+In his book, *The Meaning of Video Games*, Steven E. Jones notes that 
+> a video game...is a system designed such that it only fulfills it [sic] potential for meaning when its specific technical features...are expressed as the game makes its way out into the world, when it's played. (9)
+
+While a player's performance is critical for forming interpretations, it is only possible through the rules of the game.
+Without rules, a game would not exist.
+However, as Jones illustrates, without a player there is no play, and no play also means no game.
+This goes further than the player forming interpretations of their play experience.
+The player creates the experience through their own interactions with the system.
+
+This tension between the rules and the player is not a bad thing, it is the crux of what makes games compelling experiences.
+While Sicart has a combative title, he notes that "the importance of procedurality in games studies cannot be denied."
+He continues with a challenge, saying that, "For each procedural analysis there must be an orthogonal analysis of play that completes the arguments of meaning by means of accounting the play experience."
+
+Gonzalo Frasca offers a framework to begin adressing both aspects of games.
+In line with Sicart, Frasca cautions that "a system-centric approach to games can also lead to unjustly fetishizing rules over player performance" (65).
+He proposes a three tiered framework to examine the way that players interpret and form meaning through play within the rules and world of a game (91).
+
+He calls his first layer "Playformance" which is the player's mental and physical performance of the game.
+The second is "Mechanics" or the rules of the game.
+Finally, the "Playworld" is the material space and time in which the play takes place.
+
+One reason that procedural aproaches have taken precendent over play-based ones is the difficulty in defining and explaining play.
+Play scholar Brian Sutton-Smith states:
+>  We all play occasionally, and we all know what playing feels like. But when it comes to making theoretical statements about what play is, we fall into silliness -*The Ambiguity of Play*, qtd in Frasca (35)
+
+Rules can be written down, listed, categorized and discussed.
+On the other hand, play is messy.
+Frasca attempts to define play as the following:
+> Play is to somebody an engaging activity in which the player believes to have active participation and interprets it as constraining her immediate future to a set of probable scenarios, all of which she is willing to tolerate. (50)
+
+This definition attempts to account for the various edge cases that arise in discussing play.
+Consequently, it becomes so broad as to be practically meaningless.
+While Frasca's definition may be a complete one, it has little application to the study of games.
+I will avoid tangling with rigorous definitions of play, and presume that it will be understood as the experience a person has with a game.
+
+Frasca continues to expand his definitions throughout his paper.
+Playworld and Mechanics are familiar categories, corresponding roughly to the surface and rule layers of other conceptual frameworks of games.
+Playformance is a less common category, which requires further explanation.
+Frasca uses the example of toy weapons and make believe play.
+While the gun may not function the same way a real gun does, the actions performed by the player mimic the actions of a real gun.
+> In other words, I can interpret a sign not just through the senses -such as its color, shape, temperature, etc- but also through the way that I can perform with it. (145)
+
+The toy gun is a signifier for a real gun, and during play can be treated as such, even if it is not a functional gun.
+Frasca is expanding the toy gun's "semiotic materiality" to include its "haptic dimension" (145).
+To the player, pointing a fake gun feels significant within the game, even if they know that the gun is not real.
+Performing gives the experience meaning within the rules and fictions of the game.
+
+When related back to video games this is interesting, but can present some problems.
+A videogame player's performance is almost always more mentally than physically significant.
+While Frasca covers some exceptions such as the Wii or force-feedback controllers (147-150) these are unique to particular consoles and their peripherals.
+He acknowledges this saying "videogames usually mediate actions through an avatar or some kind of on-screen representation that is generally controlled through a gamepad." (152)
+Mental performance is involved in role playing games, but this does not address the vast array of other game experiences.
+
+Frasca discusses several ways in which a player can perform with their avatar through an interface like a gamepad.
+They range from the straightforward natural mapping (up arrow is up or forward, etc) to control continuity and consistency, in which the controls of the game shift for a rhetorical effect.
+In some games, typically sports or competitive games, but not exclusively, advanced players' perfomances are aesthetically pleasing in their own right.
+Even if not being observed, skilled performance is one of the unique joys that games offer.
+
+Frasca's broader point is that rules alone are not enough to form interpretations of games.
+Meaning cannot be formed from a game without playing it.
+Frasca's ultimate, and comical, example of this comes from his own life, in a section about kissing games.
+After describing a particular game involving passing a card from player to player by suctioning it to your mouth, Frasca notes the surprising first time he tried to play it, at a party with some friends.
+
+> What happened to the players is that, at least during the first game sessions, sucking a card and passing it around is quite a surreal and comic situation, particularly when the players faces get really close to each other. What I was not able to predict is that, facing this situation, players seem to naturally tend to laugh. Physiologically, breathing in and laughing are incompatible actions. (171)
+
+This was an aspect of the game that was not evident from the rules.
+It had to be played to be discovered.
+As Frasca notes, "It was playformance in action." (171)
+
+> Different design techniques are available to guide and encourage certain performances over others and this is why, in spite of not being an exact science, games can be used for communication and persuasion. (Frasca, 140)
+
+This messy interplay between the player and the system is the heart of game design.
+Creating a structured space for players, in which they can explore the system and perform meaningful actions, is the challenge for designers who seek to persuade.
+In *Dys4ia*, Anna Anthropy uses several interesting design techniques to create a meaningful experience.
+
+###*Dys4ia*
+
+The American Psychiatric Association defines gender dysphoria as:
+A marked incongruence between one's experienced/expressed gender and assigned gender ([APA DSM-5](http://www.dsm5.org/ProposedRevision/Pages/proposedrevision.aspx?rid=482)).
+The game *Dys4ia* is intensely personal, and deals with a subject that is not typically explored in games.
+
+*Dys4ia's* playworld begins with "Level 1" exploring the gender incongruence in Anthropy's everyday life.
+It concludes with a screen declaring "Maybe I should go on hormones."
+Levels 2 and 3 are filled with the challenges of obtaining and enduring hormone replacement therapy.
+Level 4 deals with what has changed in Anthropy's life, both positively and negatively, but ends hopefully.
+
+The game is composed of multiple mini-games, animations, and interactive "game-like" vignettes.
+Rather than engage in a debate over classification, I will borrow Anthropy's term of "screen".
+The screens vary in the degree of agency the player is allowed.
+None of the screens block player progress to the next screen, upon player failure the game simply continues to the next screen. 
+This makes the narrative continue smoothly, and was an intentional design decision from Anthropy, who states:
+> Games are defined by the player's interaction with rules, not by her struggle with challenge. ([Anthropy](http://www.gamesforchange.org/2012/03/anna-anthropy-interview/))
+
+The screens each last long enough for the player to recognize the point, but no longer.
+
+*Dys4ia* includes an expressive representational layer of text, graphics and music, but they serve to support and assist with the emotionally effective procedural layer.
+The small size of *Dys4ia*'s screens allows them to be carefully focused on expressing one idea at a time.
+Keeping the screens small allows tight control over the player rather than the expressive freedom Sicart proposes.
+Given the autobiographical nature of the game this is appropriate.
+Anthropy explicitly states at the beginning of the game that this is her story, not the story of all trans people.
+
+In their paper ["*Kaboom!* Is a Many-Splendored Thing"](http://games.soe.ucsc.edu/kaboom-many-splendored-thing-interpretation-and-design-methodology-message-driven-games-using-graphi) Michael Mateas, Noah Wardrip-Fruin and Mike Treanor explore the interaction between graphical logics and procedural rhetoric.
+By keeping the same mechanics, but adjusting the graphics, they propose nearly infinite meanings for the simple arcade game *Kaboom!*.
+In order to form a coherent message, all levels of the game must say the same thing.
+
+Appropriately, *Dys4ia* features several iterations of *Kaboom!* like screens.
+In the first, to lower your blood pressure, the player must catch falling pills in a mouth.
+After catching enough pills, the screen moves on, concluding Level 2.
+Later on, in Level 3, you control a bottle of Estradiol pills, dropping them into a waiting mouth.
+This time however, the score counter is labeled "Liver %", and it decreases with each pill, casting doubt over your choice.
+Indeed, several screens later, the pill bottle is discarded entirely.
+All three of these were variations of *Kaboom!*, and each had similar graphical components.
+However, by shifting which element was being controlled, Anthropy changes their interpretation.
+
+One of the screens in Level 3 has the player control a pair of breasts, with the text "My nipples are incredibly sensitive" at the bottom.
+The screen contains small obstacles, which prompts a loss state if they come in contact with the nipples.
+In another design inversion, Level 4 features the same screen, however the words say "My tits are getting bigger".
+As the player maneuvers the breasts upwards, the obstacles which formerly ended the screen bounce off, and the text changes to "My girlfriend can finally touch my nipples again."
+In a clear example of playformance, the player's initial aprehension at seeing an unwinnable screen is replaced by a feeling of empowerment.
+
+The shifting rules of these repeated screens creates a constant sense of confusion.
+In many long form games the player overcomes more challenging obstacles as the game progresses, mastering the controls and mechanics of the game.
+In *Dys4ia* the rules do not last long enough to master.
+The rules reflect the narrative of transitioning, and attempt to put the player in a empathetic situation.
+
+The first and last screens are the most obvious instance of these shifting rules, and their relationship to hormone therapy.
+The opening screen features the player controlling an oddly shaped block trying to pass through a wall, with text that says "I feel weird about my body."
+After trying the limited posibilities and recognizing none of them will work, the player becomes frustrated, and the screen shifts.
+
+This first screen is light and played through in about 5 seconds, but it is filled with metaphor, and effectively sets the stage for the rest of the game.
+The rest of Level 1 includes several more screens which portray the every day humiliation and discomfort experienced pre-HRT, but the feeling of frustration is most effectively carried through in the first screen.
+
+Level 3 features another version of this screen, in which the shape of the player controlled block allows even less progress through the wall, with text that states "I feel weirder about my body that I ever have."
+The final screen of the game is yet another version, in which your shape is flickering, shifting size and configuration rapidly as you manuever towards the wall.
+Just before you are able to determine if you will fit in, the game ends flashing the words "THE END" which pivot to become "JUST THE BEGINNING"
+This ends the game on an ambiguous, but hopeful note.
+Again, while the words frame the ludic experience, the hope of making it through the wall and the aprehension of failing, is the emotional focal point of the screen.
+Ending the game unfulfilled reminded me that this story was not over.
+While the drama of the earlier stages of HRT were finished, Anthropy and other trans people still have to continue with their everyday lives.
+In a sense, the entire process of HRT was done to get through that first wall.
+
+>This was a story about frustration - in what other form do people complain as much about being frustrated? A video game lets you set up goals for the player and make her fail to achieve them. A reader can't fail a book. It’s an entirely different level of empathy. [(Anthropy)](http://www.penny-arcade.com/report/editorial-article/dys4ia-tackles-gender-politics-sense-of-self-and-personal-growth...-on-newg)
+
+Gamers are typically frustrated by either their own failure when confronted with a game challenge, or by reaching the limits of the game system.
+Anthropy makes the game challenge nearly non-existent (or at least non consequential) but the game's system has limits that make it impossible to proceed in the direction you want.
+As previously mentioned, this is counter to Sicart, but it shifts the metaphor to one of personal frustration against an impossible situation, rather than one that can be waited through or mastered.
+In another instance of playformance, Anthropy is utilizing games' capacity for facilitating player empathy and guilt to share her story.
+
+One of the first rhetorical moves that Anthropy makes is the context in which the game is played.
+The flash game is hosted at Newgrounds.com, a popular site for small flash games and animations.
+At the time of this writing, Newgrounds is the only site which hosts the game.
+This is an intentional and provocative move.
+Newgrounds has a reputation of immaturity, both in audience and in the works that it hosts.
+
+Anthropy forces a confrontation, both between the typical Newgrounds audience and the more sympathetic audience that direct links to the game from another site.
+The game has a comment thread directly below it, and the reactions range across the board.
+There are many five star reviews, supportive and apreciative of the game.
+However, there are also many reviews like this half star rating from user "Ember77":
+> I came into this thinking aw yeah testosterone replacement therapy this shit is about to get awesome, but then I saw it was just about some guy who thinks he's a woman and undergoes therapy.
+> The game itself is pretty lame. Just a bunch of stupid little mini-games which have no fun value at all in my opinion.
+> So if you like stories where men with too much estrogen bitch about how their life was so hard and how nobody accepts them so they change their sex this game is for you.
+> Overall pretty shitty game. Half a star for at least giving me a medal.
+
+This comment shows the player's confusion and rejection of the game, its structure and its theme.
+The player was expecting something different, and was unable to reconcile their experience with their expectations.
+
+Interestingly, many of the other comments I saw at the low end of the rating scale were harsher about the structure than the content.
+These players were expecting a play space with more freedom, and questioned whether *Dys4ia* could even be considered a game.
+This is a legitimate question, and one that haunts many innovative game, or game-like, experiences.
+In a chapter about Michael Mateas and Andrew Stern's *Facade*, an "interactive drama", Steven Jones quotes Mateas on this conflict.
+
+> I remember when *Facade was an IGF finalist...one guy walked up...and said "What the hell is this?" It was just so outside his expectations about what you do in a game, that he didn't even know how to think about the experience. -Mateas, qtd in Jones (101)
+
+Again, the close influence that Anthropy exerts over her players causes discomfort and rejection of *Dys4ia* as a game.
+In the context of Newgrounds, *Dys4ia* is located in the "Simulation-Other" category.
+While not expressly labeled as a game, *Dys4ia* clearly utilizes an arcade-like aesthetic.
+Regardless, *Dys4ia* is an interesting play experience, even if it does not conform to a strict definition of game.
+
+###Conclusion
+
+*Dys4ia* demonstrates that even limited rules can create space for player performance and interpretation.
+However, this is clearly not the only avenue for meaning in games.
+This paper was adapted from an earlier analysis in which I focussed solely on procedural design elements in *Dys4ia*.
+The goal of this expansion was an understanding of how play contributed to the experience.
+Perhaps because *Dys4ia* is so restricted as to be even questioned as a game, this change of focus did not add much to my understanding of *Dys4ia*.
+In the end, I believe that player expression is only meaningful within the context of the rules of a game.
+While Sicart and Frasca's warnings about over-emphasising rules are valid, focusing on the way these rules form coherant spaces for play is the most effective method of interpreting games.
+
+
