@@ -1,0 +1,38 @@
+---
+title: My Summer at Logik
+date: 23/10/2012
+
+  This past summer, I had a full time internship as a programmer at the e-Discovery software company, [Logik Systems.](http://www.logik.com)
+It was an incredible experience.
+I worked with a talented, fast moving team, using cutting edge web technology to build a new product.
+I certainly became a better programmer, but more valuable to me were the insights I got into developing good software effectively.
+
+##Applying
+
+*Spoiler Alert:* I got the job. Here's what I learned from the process.
+
+The ad looked intriguing.
+It mentioned Ruby, both on and off Rails, git, agile, MongoDB, and other buzzwords that I had either read about or played around with.
+I shot off [my resume](LINK), and they sent back a long questionaire that covered a broad range of topics.
+I immediately liked that they inquired about more than my technical skills, asking about interests outside of work and personality; clearly team culture was important.
+Next up was a short programming assignment, which involved converting a structured text document to JSON.
+After that passed, I had a phone interview with the team, and then one-on-one with the Director of Engineering.
+
+The phone interview was incredibly stressful for me.
+I loathe talking on the phone, and I'm sure I sounded like a moron. 
+I appreciated the depth of the interview.
+I was asked about some of the projects I had up on github, as well as some details from my [Farcebook](LINK) blog post.
+It felt like I was being very carefully screened, which excited me even more about the job.
+
+The feedback I got from the programming assignment was immediately helpful.
+I had decided against using a JSON parsing Gem, because the file was very simple, and manually making strings of JSON was easy.
+The liked that I had run it through an online JSON validator, but noted that my programming style was very "Java".
+The [code studies](LINK) part of me lit up at this comment.
+Engineering wise, they noted that if this had been a client job, the client could have come back and adjusted the requirements.
+My hardcoded approach was more brittle.
+This was a huge difference from school assignments, where the assignment has a fixed due date, and then we stop worrying about the code.
+Maintainability was suddenly a concern.
+
+##On the Job
+
+
